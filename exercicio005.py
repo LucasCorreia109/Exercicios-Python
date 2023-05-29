@@ -1,0 +1,5 @@
+print(5+2*3)
+print(2**3)
+print(232%3)
+print(232//3)
+print(127**(1/3))
